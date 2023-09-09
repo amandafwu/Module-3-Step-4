@@ -21,6 +21,7 @@ summary(cars)
 ```
 
 ## Including Plots
+##this is step 4 part 2, locally committing changes to a local repo
 
 You can also embed plots, for example:
 
